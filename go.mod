@@ -4,7 +4,7 @@ go 1.24.0
 
 require (
 	cloud.google.com/go/storage v1.50.0
-	github.com/go-yaaf/yaaf-common v1.2.178
+	github.com/go-yaaf/yaaf-common v1.2.181
 	google.golang.org/api v0.258.0
 )
 
